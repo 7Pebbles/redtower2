@@ -1,0 +1,6 @@
+{
+  "name": "The Red Tower Story Portal",
+  "description": "An immersive gothic reading and interactive laboratory portal for the masterpiece short horror story 'The Red Tower'.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
